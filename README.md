@@ -2,6 +2,11 @@
 
 FastAPI service implementing four allocation algorithms for assigning delivery trucks to orders across San Francisco.
 
+## Working Application
+
+https://github.com/user-attachments/assets/c4d1f7ad-5b88-48c7-9f0b-6d9f996f9ead
+
+
 ## Setup
 
 ```bash
